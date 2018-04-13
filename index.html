@@ -1,0 +1,98 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title>Color Sense</title>
+        
+        <link rel="icon" href="Icones/favicon.ico" />
+    
+        <meta charset="utf-8"/>
+
+        <link href="main.css" rel="stylesheet" type="text/css" media="all"/>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="icon" href="../icons/favicon.ico" />
+
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    </head>
+    
+    <body>
+        <header id="cs_topo">
+            <img id="cs_logo" src="Icones/logo_color_sense-01-01.svg">
+            
+            
+        
+        <div id="conteiner_put_concept">
+            
+            <div id="intro_concept">
+                <!--<h3>Type one or more keywords</h3>
+                <h4>Like "happy", "confidence", "money", "elder", "galaxy", "forest", "war", "trips", "health", etc... separated by commas!</h4>-->
+                
+                <h3>Insira uma <br/> palavra-chave</h3>
+                <h4>Exemplos: "feliz", "confiança", "dinheiro", "outono", "fome", "natureza", "quente", "viagem", "saúde", etc.
+                </h4>
+                
+            </div>
+            <form id="put_concept"><input id="concept_value" placeholder="digite aqui"></input>
+              <button onclick="enviar()" type="button" id="gerar">GERAR</button>
+              </form>
+            <button type="button" id="mudar_forma_redondo" style="display:none;">Retornar forma</button>
+            
+            
+        <div>
+            <p id="invalid_msg">tente outra palavra-chave</p>
+        </div>
+        </div>
+        </header>
+    
+    
+
+        <div id="color_conteiner">
+          <div id="main_colors" class="forma_redonda">
+            <div class="color1 color_box" style="background:#f00"><p class="rgb_display"></p><p class="hex_display"></p></div>
+            <div class="color2 color_box" style="background:#0f0"><p class="rgb_display"></p><p class="hex_display"></p></div>
+            <div class="color3 color_box" style="background:#00f"><p class="rgb_display"></p><p class="hex_display"></p></div>
+          </div>
+            
+            
+            <button type="button" id="mudar_forma_quadrado">Expandir</button>
+            
+            <div>
+                <button type="button" id="white_background"></button>
+                <button type="button" id="dark_background"></button>
+            </div>
+            
+        </div>
+    
+        <div id="cs_direita">
+            <section>
+                <p class="definicao">O Color Sense irá te ajudar na composição das cores da identidade visual de um projeto, como um logo, uma interface ou ilustração.</p>
+
+                <p class="definicao"> Basta escrever uma palavra-chave - um conceito, como um sentimento - associado ao seu projeto, e terá a combinação das melhores cores correspondentes. Para ver mais combinações do mesmo conceito, continue pressionando "gerar".</p>
+                
+                <p class="definicao" style="position: absolute; bottom: 30px; text-align: right;">Desenvolvido por André Ciappina
+                <br/>
+                <a href="http://andre-ciappina.com" target="_blank">andre-ciappina.com</a></p>
+            </section>
+            
+        </div>
+        
+        
+        
+        
+        
+        
+        <script type="text/javascript" src="jquery-3.3.1.js"></script>
+        
+
+        <script type="text/javascript" src="main.js"></script>
+    
+        <script type="text/javascript" src="hex-rgb-src.js"></script>
+    
+    
+    </body>
+</html>
