@@ -1,9 +1,11 @@
 # color-sense
 Turn concepts and feelings into color combinations!
 
-FIRST OF ALL =)
+FIRST OF ALL:
+
 1- One of the files of this application is from a third party.
 https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
+
     Directly from it's LICENSE file:
     * HEX <=> RGB Conversion
     * Copyright(c) 2011 Daniel Lamb <daniellmb.com>
