@@ -6,7 +6,7 @@
 Turn concepts and feelings into color combinations!
 
 Hey girls and guys =)
-This is Color Sense, a tool I've been designing for artists and designers to help them find nice colors for their visual projects. Colorful or colorless, every design is made to cause specific impressions to whoever sees it. What if you could put those impressions in words, and then turn these words into color combinations that matches the kind of feeling you're looking for? That's what I'm talking about, a color pallette made of words.
+<p style="color:red;">This is Color Sense, a tool I've been designing for artists and designers to help them find nice colors for their visual projects. Colorful or colorless, every design is made to cause specific impressions to whoever sees it. What if you could put those impressions in words, and then turn these words into color combinations that matches the kind of feeling you're looking for? That's what I'm talking about, a color pallette made of words.</p>
 
 <img src="screen.JPG">
 
