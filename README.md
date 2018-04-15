@@ -1,3 +1,5 @@
+![alt text](logo_color_sense-01-01.svg)
+
 # color-sense
 Turn concepts and feelings into color combinations!
 
