@@ -23,6 +23,21 @@ https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
 
 3- I'm a very beginner at programming. I'm still discovering HTML and CSS, and I'm still not used to any JavaScript framework. It means that if you're willing to help me construct that, in the beginning you may have some work once you open my JS file, cause I BET there are soooo many wasted lines of code in there. I used many big arrays with many cases inside many switches that were the only way for my newbie mind to make it work. Aaalso - I don't speak english fluently.
 
+**An example of my code:**
+
+```
+sad: ['#cea052', '#633c20', '#6e4c4b', '#663334', '#5b2c3f', '#222222', '#1C1D21', '#31353D', '#EEEFF7', '#5E3441', '#988794', '#684459', '#644b78', '#092a30', '#071c2c', '#08262c', '#46797b', '#607775', '#3f5b58', '#385542', '#38563c', '#606737', '#4f4a33', '#5c6670', '#525349', '#caa891']
+    
+case "sad": case "triste": case "cabisbaixo": case "desanimado": case "tristeza": case "sadness":
+            
+$('.color1').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
+            
+$('.color2').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
+            
+$('.color3').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
+break;
+```
+
 Since I know there are many ways to improve this code, I thought about some of those improvements you could help me figure out, wich I'm still not able to resolve. My ideas are:
 
 - Using a single function that connects the cases with the respective arrays. I think it's not that complex once you have some knowledge on this language. Since the colors combinations are made from words, there HAS to be lots ans lots of words (and color HEXs) to make this program completely useful. I was thinking if it could be more intelligent if the arrays actually were at a database file, then those thousands of words would be stored there; just a cogitation anyway.
