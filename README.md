@@ -14,9 +14,9 @@ https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
     * Copyright(c) 2011 Daniel Lamb <daniellmb.com>
     * MIT Licensed
     
-2- I do not speak english fluently. I'm saying this because everytime I visit some GitHub's application, it has a beautiful immense readme file with many details and explanations. Although I still have not this much to say about this project. All I want here is help to improve this thing I've been working on.
+2- I do not speak english fluently. I'm saying this because everytime I visit some GitHub's application, it has a beautiful immense readme file with many details and explanations. Although I still have not this much to say about this project. All I want here is help to improve this thing I've been working on ;).
 
-3- I'm a very beginner at programming. I'm still discovering HTML and CSS, and I'm still not used to any JavaScript framework - actually, I think I know more about JQuery than Javascript hahaha but it's just a little bit anyway. It means that if you're willing to help me construct that, in the beginning you may have some work once you open my JS file, cause I BET there are soooo many wasted lines of code in there. I used many big arrays with many cases at many switches that were the only way for my newbie mind to make it work.
+3- I'm a very beginner at programming. I'm still discovering HTML and CSS, and I'm still not used to any JavaScript framework. It means that if you're willing to help me construct that, in the beginning you may have some work once you open my JS file, cause I BET there are soooo many wasted lines of code in there. I used many big arrays with many cases inside many switches that were the only way for my newbie mind to make it work.
 
 Since I know there are many ways to improve this code, I thought about some of those improvements you could help me figure out, wich I'm still not able to resolve. My ideas are:
 
