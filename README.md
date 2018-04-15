@@ -2,7 +2,7 @@
   <img src="github_header-01-compressor.jpg">
 </p>
 
-# Color Sense - Tranform Concepts into Colors!
+# Color Sense - From Concepts to Colors
 Turn concepts and feelings into color combinations!
 
 Hey girls and guys =)
