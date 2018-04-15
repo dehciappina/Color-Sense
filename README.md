@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="github_header.svg">
+  <img height="300" src="github_header.svg">
 </p>
 
 # color-sense
