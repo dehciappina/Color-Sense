@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_header-01-compressor.jpg">
+  <img src="github_header-01-compressor.svg">
 </p>
 
 # color-sense
