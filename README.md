@@ -34,7 +34,8 @@ sad: ['#cea052', '#633c20', '#6e4c4b', '#663334', '#5b2c3f', '#222222', '#1C1D21
 /* --- Switching all concepts for each kind of keyword --- */
 switch(conceptValue.toLowerCase()) {
 case "sad": case "triste": case "cabisbaixo": case "desanimado": case "tristeza": case "sadness":
-            
+
+/* --- Each '.color#' is one of the circles that change colors --- */
 $('.color1').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
             
 $('.color2').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
