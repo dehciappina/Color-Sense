@@ -4,6 +4,9 @@ Turn concepts and feelings into color combinations!
 Hey girls and guys =)
 This is Color Sense, a tool I've been designing for artists and designers to help them find nice colors for their visual projects. Colorful or colorless, every design is made to cause specific impressions to whoever sees it. What if you could put those impressions in words, and then turn these words into color combinations that matches the kind of feeling you're looking for? That's what I'm talking about, a color pallette made of words.
 
+You can see it here:
+https://dehciappina.github.io/color-sense/
+
 BUT - let's start from the beginning:
 
 1- One of the files of this application is from a third party, which was used to convert HEX to RGB values.
