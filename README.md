@@ -26,8 +26,12 @@ https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
 **An example of my code:**
 
 ```
+/* --- A big array with many HEXs representing sadness and related feelings --- */
 sad: ['#cea052', '#633c20', '#6e4c4b', '#663334', '#5b2c3f', '#222222', '#1C1D21', '#31353D', '#EEEFF7', '#5E3441', '#988794', '#684459', '#644b78', '#092a30', '#071c2c', '#08262c', '#46797b', '#607775', '#3f5b58', '#385542', '#38563c', '#606737', '#4f4a33', '#5c6670', '#525349', '#caa891']
-    
+
+/* --- Switching all concepts for each kind of keyword --- */
+
+switch(conceptValue.toLowerCase()) {
 case "sad": case "triste": case "cabisbaixo": case "desanimado": case "tristeza": case "sadness":
             
 $('.color1').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
@@ -36,6 +40,8 @@ $('.color2').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.ra
             
 $('.color3').finish().css('backgroundColor', colorSchemes.sad[Math.floor(Math.random() * colorSchemes.sad.length)]).css('transition', 0.7 + 's')
 break;
+
+}
 ```
 
 Since I know there are many ways to improve this code, I thought about some of those improvements you could help me figure out, wich I'm still not able to resolve. My ideas are:
