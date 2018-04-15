@@ -15,7 +15,7 @@ https://dehciappina.github.io/Color-Sense/
 
 ### BUT - let's start from the beginning:
 
-1- One of the files of this application is from a third party, which was used to convert HEX to RGB values.
+1. One of the files of this application is from a third party, which was used to convert HEX to RGB values.
 https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
 
     Directly from it's LICENSE file:
@@ -23,7 +23,7 @@ https://github.com/daniellmb/HEX-RGB-Conversion/blob/master/LICENSE.txt
     * Copyright(c) 2011 Daniel Lamb <daniellmb.com>
     * MIT Licensed
 
-3- I'm a very beginner at programming. I'm still discovering HTML and CSS, and I'm still not used to any JavaScript framework. It means that if you're willing to help me construct that, in the beginning you may have some work once you open my JS file, cause I BET there are soooo many wasted lines of code in there. I used many big arrays with many cases inside many switches that were the only way for my newbie mind to make it work. Aaalso - I don't speak english fluently.
+2. I'm a very beginner at programming. I'm still discovering HTML and CSS, and I'm still not used to any JavaScript framework. It means that if you're willing to help me construct that, in the beginning you may have some work once you open my JS file, cause I BET there are soooo many wasted lines of code in there. I used many big arrays with many cases inside many switches that were the only way for my newbie mind to make it work. Aaalso - I don't speak english fluently.
 
 **An example of my code:**
 
